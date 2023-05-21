@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Diver resources</title>
-    <link href="https://ridershow.github.io/diver-resources/feed.xml" rel="self" />
-    <link href="https://ridershow.github.io/diver-resources" />
+    <link href="https://diverresources.com/feed.xml" rel="self" />
+    <link href="https://diverresources.com" />
     <updated>2023-05-22T00:17:35+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
-    <id>https://ridershow.github.io/diver-resources</id>
+    <id>https://diverresources.com</id>
 
     <entry>
         <title>Les notions essentielles d&#x27;anatomie, de physiologie et de physionomie en plongée</title>
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/les-notions-essentielles-danatomie-de-physiologie-et-de-physionomie-en-plongee/"/>
-        <id>https://ridershow.github.io/diver-resources/les-notions-essentielles-danatomie-de-physiologie-et-de-physionomie-en-plongee/</id>
+        <link href="https://diverresources.com/les-notions-essentielles-danatomie-de-physiologie-et-de-physionomie-en-plongee/"/>
+        <id>https://diverresources.com/les-notions-essentielles-danatomie-de-physiologie-et-de-physionomie-en-plongee/</id>
             <category term="Théorie"/>
 
         <updated>2023-05-22T00:17:35+02:00</updated>
@@ -76,8 +76,8 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/un-apercu-des-principales-associations-et-organismes-de-plongee-en-france/"/>
-        <id>https://ridershow.github.io/diver-resources/un-apercu-des-principales-associations-et-organismes-de-plongee-en-france/</id>
+        <link href="https://diverresources.com/un-apercu-des-principales-associations-et-organismes-de-plongee-en-france/"/>
+        <id>https://diverresources.com/un-apercu-des-principales-associations-et-organismes-de-plongee-en-france/</id>
 
         <updated>2023-05-22T00:08:47+02:00</updated>
             <summary>
@@ -130,8 +130,8 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/les-principales-associations-et-organismes-de-plongee-dans-le-monde/"/>
-        <id>https://ridershow.github.io/diver-resources/les-principales-associations-et-organismes-de-plongee-dans-le-monde/</id>
+        <link href="https://diverresources.com/les-principales-associations-et-organismes-de-plongee-dans-le-monde/"/>
+        <id>https://diverresources.com/les-principales-associations-et-organismes-de-plongee-dans-le-monde/</id>
 
         <updated>2023-05-22T00:03:12+02:00</updated>
             <summary>
@@ -181,8 +181,8 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/plongee-technique-repoussez-vos-limites-sous-marines/"/>
-        <id>https://ridershow.github.io/diver-resources/plongee-technique-repoussez-vos-limites-sous-marines/</id>
+        <link href="https://diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/"/>
+        <id>https://diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/</id>
 
         <updated>2023-05-21T23:37:33+02:00</updated>
             <summary>
@@ -242,8 +242,8 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/les-gaz-en-plongee-sous-marine-air-nitrox-et-gaz-speciaux-avantages-inconvenients-et-risques/"/>
-        <id>https://ridershow.github.io/diver-resources/les-gaz-en-plongee-sous-marine-air-nitrox-et-gaz-speciaux-avantages-inconvenients-et-risques/</id>
+        <link href="https://diverresources.com/les-gaz-en-plongee-sous-marine-air-nitrox-et-gaz-speciaux-avantages-inconvenients-et-risques/"/>
+        <id>https://diverresources.com/les-gaz-en-plongee-sous-marine-air-nitrox-et-gaz-speciaux-avantages-inconvenients-et-risques/</id>
             <category term="Théorie"/>
 
         <updated>2023-05-21T23:20:57+02:00</updated>
@@ -316,8 +316,8 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/"/>
-        <id>https://ridershow.github.io/diver-resources/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/</id>
+        <link href="https://diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/"/>
+        <id>https://diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/</id>
             <category term="Théorie"/>
             <category term="Santé"/>
             <category term="Prévention"/>
@@ -405,8 +405,8 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/"/>
-        <id>https://ridershow.github.io/diver-resources/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/</id>
+        <link href="https://diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/"/>
+        <id>https://diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/</id>
             <category term="SOS"/>
             <category term="Premiers secours"/>
 
@@ -516,8 +516,8 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/procedure-dintervention-en-cas-daccident-de-decompression-en-plongee-mise-en-securite-du-plongeur-avant-larrivee-des-secours/"/>
-        <id>https://ridershow.github.io/diver-resources/procedure-dintervention-en-cas-daccident-de-decompression-en-plongee-mise-en-securite-du-plongeur-avant-larrivee-des-secours/</id>
+        <link href="https://diverresources.com/procedure-dintervention-en-cas-daccident-de-decompression-en-plongee-mise-en-securite-du-plongeur-avant-larrivee-des-secours/"/>
+        <id>https://diverresources.com/procedure-dintervention-en-cas-daccident-de-decompression-en-plongee-mise-en-securite-du-plongeur-avant-larrivee-des-secours/</id>
             <category term="Santé"/>
             <category term="SOS"/>
             <category term="Premiers secours"/>
@@ -565,8 +565,8 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/reagir-face-a-un-accident-de-plongee-lattitude-et-les-actions-cruciales-pour-une-intervention-efficace/"/>
-        <id>https://ridershow.github.io/diver-resources/reagir-face-a-un-accident-de-plongee-lattitude-et-les-actions-cruciales-pour-une-intervention-efficace/</id>
+        <link href="https://diverresources.com/reagir-face-a-un-accident-de-plongee-lattitude-et-les-actions-cruciales-pour-une-intervention-efficace/"/>
+        <id>https://diverresources.com/reagir-face-a-un-accident-de-plongee-lattitude-et-les-actions-cruciales-pour-une-intervention-efficace/</id>
             <category term="Santé"/>
             <category term="Premiers secours"/>
 
@@ -608,8 +608,8 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://ridershow.github.io/diver-resources/plongee-sous-marine-de-loisir-conseils-pour-une-prevention-efficace/"/>
-        <id>https://ridershow.github.io/diver-resources/plongee-sous-marine-de-loisir-conseils-pour-une-prevention-efficace/</id>
+        <link href="https://diverresources.com/plongee-sous-marine-de-loisir-conseils-pour-une-prevention-efficace/"/>
+        <id>https://diverresources.com/plongee-sous-marine-de-loisir-conseils-pour-une-prevention-efficace/</id>
             <category term="Santé"/>
             <category term="Prévention"/>
 
