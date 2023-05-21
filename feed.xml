@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://ridershow.github.io/diver-resources/feed.xml" rel="self" />
     <link href="https://ridershow.github.io/diver-resources" />
-    <updated>2023-05-21T22:05:09+02:00</updated>
+    <updated>2023-05-21T22:12:27+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -16,9 +16,9 @@
         </author>
         <link href="https://ridershow.github.io/diver-resources/plongees-successives-vs-plongees-consecutives-comprendre-la-difference-et-les-bonnes-pratiques/"/>
         <id>https://ridershow.github.io/diver-resources/plongees-successives-vs-plongees-consecutives-comprendre-la-difference-et-les-bonnes-pratiques/</id>
-            <category term="Santé"/>
+            <category term="Théorie"/>
 
-        <updated>2023-05-21T22:05:09+02:00</updated>
+        <updated>2023-05-21T22:10:40+02:00</updated>
             <summary>
                 <![CDATA[
                     Lorsqu'il s'agit de planifier des plongées sous-marines, il est important de comprendre les différences entre les plongées successives, consécutives et&hellip;
@@ -72,9 +72,9 @@
         </author>
         <link href="https://ridershow.github.io/diver-resources/incidence-des-variations-de-pression/"/>
         <id>https://ridershow.github.io/diver-resources/incidence-des-variations-de-pression/</id>
-            <category term="Santé"/>
+            <category term="Théorie"/>
 
-        <updated>2023-05-21T21:45:57+02:00</updated>
+        <updated>2023-05-21T22:10:52+02:00</updated>
             <summary>
                 <![CDATA[
                     Les variations de pression peuvent avoir un impact significatif sur le corps humain, que ce soit lors de voyages en&hellip;
@@ -124,9 +124,9 @@
         </author>
         <link href="https://ridershow.github.io/diver-resources/paliers-de-decompression-conseils-essentiels/"/>
         <id>https://ridershow.github.io/diver-resources/paliers-de-decompression-conseils-essentiels/</id>
-            <category term="Santé"/>
+            <category term="Théorie"/>
 
-        <updated>2023-05-21T20:03:47+02:00</updated>
+        <updated>2023-05-21T22:11:03+02:00</updated>
             <summary>
                 <![CDATA[
                     La plongée sous-marine est une activité passionnante, mais elle comporte certains risques, notamment le mal de décompression. Les paliers de&hellip;
@@ -314,8 +314,9 @@
         </author>
         <link href="https://ridershow.github.io/diver-resources/plongeur-responsable-et-prudent/"/>
         <id>https://ridershow.github.io/diver-resources/plongeur-responsable-et-prudent/</id>
+            <category term="Philosophie"/>
 
-        <updated>2023-05-21T19:31:11+02:00</updated>
+        <updated>2023-05-21T22:11:32+02:00</updated>
             <summary>
                 <![CDATA[
                     Un plongeur responsable et prudent est avant tout conscient des risques liés à la plongée et prend les mesures nécessaires&hellip;
@@ -349,7 +350,7 @@
         </content>
     </entry>
     <entry>
-        <title>Les types de risques d&#x27;accidents en plongée loisir</title>
+        <title>Les types d&#x27;accidents en plongée loisir</title>
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
@@ -357,7 +358,7 @@
         <id>https://ridershow.github.io/diver-resources/les-types-de-risques-daccidents-en-plongee-loisir/</id>
             <category term="Accident de plongée"/>
 
-        <updated>2023-05-21T19:32:08+02:00</updated>
+        <updated>2023-05-21T22:12:27+02:00</updated>
             <summary>
                 <![CDATA[
                     La plongée sous-marine comporte des risques pour la santé et la sécurité du plongeur, et il est important d'en être&hellip;
@@ -391,9 +392,9 @@
         </author>
         <link href="https://ridershow.github.io/diver-resources/lois-physiques-plongee-loisir/"/>
         <id>https://ridershow.github.io/diver-resources/lois-physiques-plongee-loisir/</id>
-            <category term="Santé"/>
+            <category term="Théorie"/>
 
-        <updated>2023-05-21T19:32:38+02:00</updated>
+        <updated>2023-05-21T22:12:04+02:00</updated>
             <summary>
                 <![CDATA[
                     En plongée sous-marine, les lois physiques sont très importantes à comprendre et à maîtriser, car elles ont une incidence directe&hellip;

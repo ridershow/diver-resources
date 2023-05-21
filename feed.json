@@ -19,10 +19,10 @@
                 "name": "Jérémy Lanfranchi"
             },
             "tags": [
-                   "Santé"
+                   "Théorie"
             ],
             "date_published": "2023-05-21T21:58:18+02:00",
-            "date_modified": "2023-05-21T22:05:09+02:00"
+            "date_modified": "2023-05-21T22:10:40+02:00"
         },
         {
             "id": "https://ridershow.github.io/diver-resources/incidence-des-variations-de-pression/",
@@ -34,10 +34,10 @@
                 "name": "Jérémy Lanfranchi"
             },
             "tags": [
-                   "Santé"
+                   "Théorie"
             ],
             "date_published": "2023-05-21T20:32:05+02:00",
-            "date_modified": "2023-05-21T21:45:57+02:00"
+            "date_modified": "2023-05-21T22:10:52+02:00"
         },
         {
             "id": "https://ridershow.github.io/diver-resources/paliers-de-decompression-conseils-essentiels/",
@@ -49,10 +49,10 @@
                 "name": "Jérémy Lanfranchi"
             },
             "tags": [
-                   "Santé"
+                   "Théorie"
             ],
             "date_published": "2023-05-21T20:03:36+02:00",
-            "date_modified": "2023-05-21T20:03:47+02:00"
+            "date_modified": "2023-05-21T22:11:03+02:00"
         },
         {
             "id": "https://ridershow.github.io/diver-resources/mal-de-decompression-cause-et-facteurs-favorisant/",
@@ -113,14 +113,15 @@
                 "name": "Jérémy Lanfranchi"
             },
             "tags": [
+                   "Philosophie"
             ],
             "date_published": "2023-05-21T00:13:23+02:00",
-            "date_modified": "2023-05-21T19:31:11+02:00"
+            "date_modified": "2023-05-21T22:11:32+02:00"
         },
         {
             "id": "https://ridershow.github.io/diver-resources/les-types-de-risques-daccidents-en-plongee-loisir/",
             "url": "https://ridershow.github.io/diver-resources/les-types-de-risques-daccidents-en-plongee-loisir/",
-            "title": "Les types de risques d&#x27;accidents en plongée loisir",
+            "title": "Les types d&#x27;accidents en plongée loisir",
             "summary": "La plongée sous-marine comporte des risques pour la santé et la sécurité du plongeur, et il est important d'en être&hellip;",
             "content_html": "<p>La plongée sous-marine comporte des risques pour la santé et la sécurité du plongeur, et il est important d'en être conscient et de les prévenir pour plonger en toute sécurité. Voici quelques-uns des risques les plus fréquents en plongée loisir :</p>\n<ol>\n<li>\n<p><strong>Le barotraumatisme</strong> : c'est une blessure causée par les variations de pression lors de la descente ou de la remontée en plongée, qui peuvent endommager les tympans, les sinus, les dents ou les poumons.</p>\n</li>\n<li>\n<p><strong>Le mal de décompression</strong> : c'est une pathologie causée par la formation de bulles de gaz dans les tissus du corps lors d'une remontée trop rapide, qui peut provoquer des douleurs, des troubles neurologiques, voire des lésions irréversibles.</p>\n</li>\n<li>\n<p><strong>La narcose à l'azote</strong> : c'est un état de confusion mentale et de perte de coordination causé par l'effet de l'azote dissous dans le sang à des profondeurs importantes.</p>\n</li>\n<li>\n<p><strong>La noyade</strong> : c'est le risque le plus grave en plongée, qui peut être causé par une panique, une perte de conscience, une incapacité à respirer ou un accident de plongée.</p>\n</li>\n</ol>\n<p>Pour éviter ces risques, il est essentiel de suivre une formation de qualité, de plonger avec un équipement adapté et en bon état, de respecter les règles de sécurité et de prévention, de planifier les plongées avec rigueur et de surveiller sa santé et celle de ses coéquipiers en permanence.</p>",
             "author": {
@@ -130,7 +131,7 @@
                    "Accident de plongée"
             ],
             "date_published": "2023-05-21T00:11:30+02:00",
-            "date_modified": "2023-05-21T19:32:08+02:00"
+            "date_modified": "2023-05-21T22:12:27+02:00"
         },
         {
             "id": "https://ridershow.github.io/diver-resources/lois-physiques-plongee-loisir/",
@@ -142,10 +143,10 @@
                 "name": "Jérémy Lanfranchi"
             },
             "tags": [
-                   "Santé"
+                   "Théorie"
             ],
             "date_published": "2023-05-20T23:56:57+02:00",
-            "date_modified": "2023-05-21T19:32:38+02:00"
+            "date_modified": "2023-05-21T22:12:04+02:00"
         }
     ]
 }
