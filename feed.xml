@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://ridershow.github.io/diver-resources/feed.xml" rel="self" />
     <link href="https://ridershow.github.io/diver-resources" />
-    <updated>2023-05-22T00:16:39+02:00</updated>
+    <updated>2023-05-22T00:17:35+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://ridershow.github.io/diver-resources/les-notions-essentielles-danatomie-de-physiologie-et-de-physionomie-en-plongee/"/>
         <id>https://ridershow.github.io/diver-resources/les-notions-essentielles-danatomie-de-physiologie-et-de-physionomie-en-plongee/</id>
+            <category term="Théorie"/>
 
-        <updated>2023-05-22T00:16:39+02:00</updated>
+        <updated>2023-05-22T00:17:35+02:00</updated>
             <summary>
                 <![CDATA[
                     L'anatomie, la physiologie et la physionomie sont des thèmes essentiels à connaitre pour pratiquer des activités sous-marine en toute sécurité.
