@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://www.diverresources.com/feed.xml" rel="self" />
     <link href="https://www.diverresources.com" />
-    <updated>2023-05-23T12:29:00+02:00</updated>
+    <updated>2023-05-23T22:57:25+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.diverresources.com/suis-je-en-train-de-vivre-un-accident-de-decompression-comment-diagnostiquer-et-agir-en-cas-durgence/</id>
             <category term="SOS"/>
 
-        <updated>2023-05-23T12:29:00+02:00</updated>
+        <updated>2023-05-23T22:54:56+02:00</updated>
             <summary>
                 <![CDATA[
                     Si vous vous posez la question de savoir si vous êtes en train de vivre un accident de décompression, il&hellip;
@@ -41,16 +41,16 @@
 <h2>Que faire en cas d'accident de décompression ?</h2>
 <ol>
 <li>
-<p><strong>Demandez une assistance médicale d'urgence</strong> : Contactez immédiatement les services médicaux ou rendez-vous à l'hôpital le plus proche. Informez-les de votre situation et des symptômes que vous ressentez.</p>
+<p><strong>Demandez une assistance médicale d'urgence</strong> : Contactez immédiatement les <a href="https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/">services médicaux</a> ou rendez-vous à l'hôpital le plus proche. Informez-les de votre situation et des symptômes que vous ressentez. Ils seront en capacité de vous orienter vers le service adéquat le plus proche ou de vous envoyer du secours.</p>
 </li>
 <li>
-<p><strong>Administrez de l'oxygène</strong> : Si vous avez accès à de l'oxygène, utilisez-le immédiatement. L'administration d'oxygène pur peut aider à réduire les dommages causés par les bulles d'azote dans votre corps.</p>
+<p><strong>Administrez de l'oxygène</strong> : Si vous avez accès à de l'oxygène, utilisez-le immédiatement. L'administration d'oxygène pur aide à réduire les dommages causés par les bulles d'azote dans votre corps.</p>
 </li>
 <li>
-<p><strong>Ne plongez plus et ne montez pas en altitude</strong> : Évitez toute activité qui implique des variations rapides de pression, car cela peut aggraver les symptômes et les complications.</p>
+<p><strong>Ne plongez plus et ne montez pas en altitude</strong> : Évitez toute activité qui implique des variations rapides de pression, car cela peut aggraver les symptômes et amener des complications. Une randonnée pour rejoindre le haut d'un volcan ou un superbe point de vue sur la mer risque de vous apporter plus de soucis qu'autre chose.</p>
 </li>
 <li>
-<p><strong>Restez hydraté</strong> : Buvez beaucoup d'eau pour aider à éliminer l'azote de votre système.</p>
+<p><strong>Restez hydraté</strong> : Buvez beaucoup d'eau pour aider à éliminer l'azote de votre système. </p>
 </li>
 <li>
 <p><strong>Ne prenez pas d'anti-inflammatoires non stéroïdiens (AINS)</strong> : Évitez de prendre des médicaments anti-inflammatoires non stéroïdiens (tels que l'ibuprofène) sans l'avis d'un professionnel de la santé, car ils peuvent aggraver les symptômes.</p>
@@ -131,7 +131,7 @@
         <id>https://www.diverresources.com/associations-et-organismes-plongee-loisir-france/</id>
             <category term="Plongée Loisir"/>
 
-        <updated>2023-05-22T02:49:26+02:00</updated>
+        <updated>2023-05-23T22:57:25+02:00</updated>
             <summary>
                 <![CDATA[
                     En France, plusieurs associations et organismes jouent un rôle essentiel dans la promotion de la plongée responsable, la formation des&hellip;
@@ -167,7 +167,7 @@
 </li>
 </ol>
 <p>La plongée sous-marine en France bénéficie d'un soutien solide de la part de diverses associations et organismes dédiés à la formation, à la sécurité et à la promotion de cette activité. Les liens vers les sites Web de ces organisations vous permettront d'explorer plus en détail leurs activités, leurs programmes de formation et leurs ressources. Que vous soyez débutant ou plongeur expérimenté, ces organismes et associations sont là pour vous accompagner et vous aider à profiter de la plongée de manière sûre et responsable.</p>
-<p>Veuillez noter que cette liste n'est pas exhaustive et qu'il existe d'autres associations et organismes de plongée en France qui méritent également d'être mentionnés. N'hésitez pas à laisser un commentaire pour que nous puissions mettre à jour cet article.</p>
+<p>Veuillez noter que cette liste n'est pas exhaustive et qu'il existe d'autres associations et organismes de plongée en France qui méritent également d'être mentionnés.</p>
 </div>
 </div>
 </div>
@@ -184,7 +184,7 @@
         </author>
         <link href="https://www.diverresources.com/principales-associations-et-organismes-plongee-loisir-tech-monde/"/>
         <id>https://www.diverresources.com/principales-associations-et-organismes-plongee-loisir-tech-monde/</id>
-            <category term="Plongée Tech"/>
+            <category term="Plongée Tek"/>
             <category term="Plongée Loisir"/>
 
         <updated>2023-05-22T02:51:59+02:00</updated>
