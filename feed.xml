@@ -3,14 +3,14 @@
     <title>Diver resources</title>
     <link href="https://www.diverresources.com/feed.xml" rel="self" />
     <link href="https://www.diverresources.com" />
-    <updated>2023-05-24T20:45:14+02:00</updated>
+    <updated>2023-06-01T22:54:34+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
     <id>https://www.diverresources.com</id>
 
     <entry>
-        <title>Suis-je en train de vivre un accident de décompression ? Comment diagnostiquer et agir en cas d&#x27;urgence?</title>
+        <title>Auto Diagnostique d&#x27;un Accident de Décompression ? Quels Symptômes, Comment Réagir ?</title>
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://www.diverresources.com/se-diagnostiquer-et-agir-suspicien-accident-decompression/</id>
             <category term="SOS"/>
 
-        <updated>2023-05-24T20:45:14+02:00</updated>
+        <updated>2023-06-01T22:54:34+02:00</updated>
             <summary>
                 <![CDATA[
                     Si vous vous posez la question de savoir si vous êtes en train de vivre un accident de décompression, il&hellip;
@@ -38,10 +38,10 @@
 <li>Problèmes de vision ou perte de conscience.</li>
 </ol>
 <p>Si vous présentez un ou plusieurs de ces symptômes, il est important de considérer la possibilité d'un accident de décompression.</p>
-<h2>Que faire en cas d'accident de décompression ?</h2>
+<h2>Comment réagir ?</h2>
 <ol>
 <li>
-<p><strong>Demandez une assistance médicale d'urgence</strong> : Contactez immédiatement les <a href="https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/">services médicaux</a> ou rendez-vous à l'hôpital le plus proche. Informez-les de votre situation et des symptômes que vous ressentez. Ils seront en capacité de vous orienter vers le service adéquat le plus proche ou de vous envoyer du secours.</p>
+<p><strong>Demandez une assistance médicale</strong> : Contactez les <a href="https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/">services médicaux</a> ou rendez-vous à l'hôpital le plus proche. Informez-les de votre situation et des symptômes que vous ressentez. Ils seront en capacité de vous orienter vers le service adéquat le plus proche ou de vous envoyer du secours si cela est nécéssaire.</p>
 </li>
 <li>
 <p><strong>Administrez de l'oxygène</strong> : Si vous avez accès à de l'oxygène, utilisez-le immédiatement. L'administration d'oxygène pur aide à réduire les dommages causés par les bulles d'azote dans votre corps.</p>
@@ -50,13 +50,13 @@
 <p><strong>Ne plongez plus et ne montez pas en altitude</strong> : Évitez toute activité qui implique des variations rapides de pression, car cela peut aggraver les symptômes et amener des complications. Une randonnée pour rejoindre le haut d'un volcan ou un superbe point de vue sur la mer risque de vous apporter plus de soucis qu'autre chose.</p>
 </li>
 <li>
-<p><strong>Restez hydraté</strong> : Buvez beaucoup d'eau pour aider à éliminer l'azote de votre système. </p>
+<p><strong>Restez hydraté</strong> : Buvez beaucoup d'eau pour aider à éliminer l'azote naturellement de votre système.</p>
 </li>
 <li>
-<p><strong>Ne prenez pas d'anti-inflammatoires non stéroïdiens (AINS)</strong> : Évitez de prendre des médicaments anti-inflammatoires non stéroïdiens (tels que l'ibuprofène) sans l'avis d'un professionnel de la santé, car ils peuvent aggraver les symptômes.</p>
+<p><strong>Ne prenez pas d'anti-inflammatoires non stéroïdiens (AINS)</strong> : Évitez de prendre des médicaments anti-inflammatoires non stéroïdiens (tels que l'ibuprofène) sans l'avis d'un professionnel de la santé, ils peuvent aggraver les symptômes.</p>
 </li>
 </ol>
-<p>Si vous pensez être en train de vivre un accident de décompression, il est crucial d'agir rapidement. Consultez un professionnel de la santé dès que possible pour obtenir une évaluation et un traitement appropriés. N'oubliez pas d'informer les médecins de votre exposition récente à des pressions élevées, que ce soit lors d'une plongée sous-marine ou d'un vol en altitude. Votre santé est primordiale, et en suivant les procédures appropriées, vous pouvez minimiser les risques liés à un accident de décompression.</p>
+<p>Si vous pensez être en train de vivre un accident de décompression, il est crucial de considérer les symptômes. Consultez un professionnel de la santé dès que possible pour obtenir une évaluation et un traitement appropriés. N'oubliez pas d'informer les médecins de votre exposition récente à des pressions élevées, que ce soit lors d'une plongée sous-marine ou d'un vol en altitude. Votre santé est primordiale, et en suivant les procédures appropriées, vous pouvez minimiser les risques liés à un accident de décompression.</p>
             ]]>
         </content>
     </entry>
@@ -69,7 +69,7 @@
         <id>https://www.diverresources.com/anatomie-physiologie-physionomie-notions-essentielles-en-plongee/</id>
             <category term="Théorie"/>
 
-        <updated>2023-05-22T02:41:51+02:00</updated>
+        <updated>2023-06-01T22:51:22+02:00</updated>
             <summary>
                 <![CDATA[
                     L'anatomie, la physiologie et la physionomie sont des thèmes essentiels à connaitre pour pratiquer des activités sous-marine en toute sécurité.
@@ -82,39 +82,39 @@
 <p>L'anatomie est l'étude de la structure du corps humain. En plongée, il est crucial de comprendre l'anatomie des voies respiratoires, du système cardiovasculaire et des oreilles. Voici quelques points clés à retenir :</p>
 <ul>
 <li>
-<p>Voies respiratoires : Les voies respiratoires comprennent le nez, la gorge, le larynx, la trachée, les bronches et les poumons. Comprendre leur structure et leur fonctionnement est essentiel pour maintenir une respiration efficace et régulière sous l'eau.</p>
+<p><strong>Voies respiratoires</strong> : Les voies respiratoires comprennent le nez, la gorge, le larynx, la trachée, les bronches et les poumons. Comprendre leur structure et leur fonctionnement est essentiel pour maintenir une respiration efficace et régulière sous l'eau.</p>
 </li>
 <li>
-<p>Système cardiovasculaire : Le système cardiovasculaire est responsable du transport de l'oxygène et des nutriments dans tout le corps. Comprendre le fonctionnement du cœur, des vaisseaux sanguins et de la circulation sanguine est essentiel pour maintenir une bonne oxygénation pendant la plongée.</p>
+<p><strong>Système cardiovasculaire</strong> : Le système cardiovasculaire est responsable du transport de l'oxygène et des nutriments dans tout le corps. Comprendre le fonctionnement du cœur, des vaisseaux sanguins et de la circulation sanguine est essentiel pour maintenir une bonne oxygénation pendant la plongée.</p>
 </li>
 <li>
-<p>Oreilles : Les oreilles jouent un rôle crucial dans l'équilibrage de la pression pendant la plongée. Comprendre l'anatomie de l'oreille interne, du canal auditif et du tympan permet de prévenir les problèmes d'oreille et de barotraumatismes.</p>
+<p><strong>Oreilles</strong> : Les oreilles jouent un rôle crucial dans l'équilibrage de la pression pendant la plongée. Comprendre l'anatomie de l'oreille interne, du canal auditif et du tympan permet de prévenir les problèmes d'oreille et de barotraumatismes.</p>
 </li>
 </ul>
 <h2>Physiologie</h2>
 <p>La physiologie est l'étude du fonctionnement du corps humain. En plongée, il est essentiel de comprendre la physiologie de la respiration, de la circulation sanguine, de la saturation en azote et de l'élimination du dioxyde de carbone. Voici quelques notions importantes :</p>
 <ul>
 <li>
-<p>Respiration : Comprendre comment le corps utilise l'oxygène et élimine le dioxyde de carbone pendant la respiration est crucial pour éviter les risques d'hyperoxie ou d'hypoxie.</p>
+<p><strong>Respiration</strong> : Comprendre comment le corps utilise l'oxygène et élimine le dioxyde de carbone pendant la respiration est crucial pour éviter les risques d'hyperoxie ou d'hypoxie.</p>
 </li>
 <li>
-<p>Circulation sanguine : Le sang transporte l'oxygène et les nutriments vers les tissus et élimine les déchets métaboliques. Comprendre la circulation sanguine et les mécanismes de régulation de la pression artérielle est important pour maintenir une bonne oxygénation et éviter les accidents de décompression.</p>
+<p><strong>Circulation sanguine</strong> : Le sang transporte l'oxygène et les nutriments vers les tissus et élimine les déchets métaboliques. Comprendre la circulation sanguine et les mécanismes de régulation de la pression artérielle est important pour maintenir une bonne oxygénation et éviter les accidents de décompression.</p>
 </li>
 <li>
-<p>Saturation en azote : Lors de la plongée, l'azote présent dans l'air ou dans les mélanges respiratoires se dissout dans les tissus du corps. Comprendre la saturation en azote et les principes de décompression permet de prévenir les accidents de décompression.</p>
+<p><strong>Saturation en azote</strong> : Lors de la plongée, l'azote présent dans l'air ou dans les mélanges respiratoires se dissout dans les tissus du corps. Comprendre la saturation en azote et les principes de décompression permet de prévenir les accidents de décompression.</p>
 </li>
 </ul>
 <h2>Physionomie</h2>
 <p>La physionomie fait référence aux caractéristiques individuelles du corps humain. En plongée, la physionomie peut avoir un impact sur le choix et l'ajustement de l'équipement, ainsi que sur l'équilibrage de la flottabilité. Voici quelques points importants à considérer :</p>
 <ul>
 <li>
-<p>Visage et masque : La forme du visage peut influencer l'ajustement du masque de plongée. Une bonne étanchéité du masque est essentielle pour maintenir une vision claire et éviter les problèmes d'eau dans le masque.</p>
+<p><strong>Visage et masque</strong> : La forme du visage peut influencer l'ajustement du masque de plongée. Une bonne étanchéité du masque est essentielle pour maintenir une vision claire et éviter les problèmes d'eau dans le masque.</p>
 </li>
 <li>
-<p>Sinus : La taille des sinus peut affecter la capacité à équilibrer la pression pendant la descente et la remontée. Une connaissance de la physionomie de ses sinus permet de prendre des précautions supplémentaires si nécessaire.</p>
+<p><strong>Sinus</strong> : La taille des sinus peut affecter la capacité à équilibrer la pression pendant la descente et la remontée. Une connaissance de la physionomie de ses sinus permet de prendre des précautions supplémentaires si nécessaire.</p>
 </li>
 <li>
-<p>Flexibilité et mobilité : La flexibilité des articulations peut influencer le confort et la maniabilité sous l'eau. Il est important de choisir un équipement adapté à sa physionomie et de pratiquer des exercices d'étirement pour améliorer la mobilité.</p>
+<p><strong>Flexibilité et mobilité</strong> : La flexibilité des articulations peut influencer le confort et la maniabilité sous l'eau. Il est important de choisir un équipement adapté à sa physionomie et de pratiquer des exercices d'étirement pour améliorer la mobilité.</p>
 </li>
 </ul>
 <h2>Conclusion</h2>
@@ -178,7 +178,7 @@
         </content>
     </entry>
     <entry>
-        <title>Les Principales Associations et Organismes de Plongée Loisir et Tech dans le Monde</title>
+        <title>Les Principales Associations et Organismes de Plongée Loisir et Tek dans le Monde</title>
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
@@ -187,7 +187,7 @@
             <category term="Plongée Tek"/>
             <category term="Plongée Loisir"/>
 
-        <updated>2023-05-24T20:30:55+02:00</updated>
+        <updated>2023-06-01T22:52:20+02:00</updated>
             <summary>
                 <![CDATA[
                     Pour garantir la sécurité, promouvoir les bonnes pratiques et offrir une formation de qualité, plusieurs associations et organismes de plongée&hellip;
