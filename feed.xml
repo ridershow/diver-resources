@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://www.diverresources.com/feed.xml" rel="self" />
     <link href="https://www.diverresources.com" />
-    <updated>2023-06-01T23:08:53+02:00</updated>
+    <updated>2023-07-07T19:42:12+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -237,15 +237,18 @@
         </author>
         <link href="https://www.diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/"/>
         <id>https://www.diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/</id>
+        <media:content url="https://www.diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" medium="image" />
 
-        <updated>2023-05-21T23:37:33+02:00</updated>
+        <updated>2023-07-07T19:42:12+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" alt="" />
                     La plongée technique, également connue sous le nom de plongée avancée ou plongée de pointe, est une forme de plongée&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" class="type:primaryImage" alt="" /></p>
                 <div class="flex-1 overflow-hidden">
 <div class="react-scroll-to-bottom--css-ukseh-79elbk h-full dark:bg-gray-800">
 <div class="react-scroll-to-bottom--css-ukseh-1n7m0yu">
