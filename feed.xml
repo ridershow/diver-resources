@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://www.diverresources.com/feed.xml" rel="self" />
     <link href="https://www.diverresources.com" />
-    <updated>2023-07-10T22:17:39+02:00</updated>
+    <updated>2023-07-15T20:26:29+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -473,17 +473,20 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         </author>
         <link href="https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/"/>
         <id>https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/</id>
+        <media:content url="https://www.diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" medium="image" />
             <category term="Secourisme"/>
             <category term="SOS"/>
 
-        <updated>2023-05-22T02:43:48+02:00</updated>
+        <updated>2023-07-11T02:43:49+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" alt="" />
                     Lorsque vous êtes confronté à un danger ou à une urgence en plongée en France, il est essentiel de savoir&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
 <div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-xl xl:max-w-3xl md:py-6 lg:px-0 m-auto">
 <div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
@@ -633,17 +636,20 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         </author>
         <link href="https://www.diverresources.com/reagir-accident-plongee-attitude-et-actions-pour-ntervention-efficace/"/>
         <id>https://www.diverresources.com/reagir-accident-plongee-attitude-et-actions-pour-ntervention-efficace/</id>
+        <media:content url="https://www.diverresources.com/media/posts/11/miquel-parera-tr5hA7_wDFc-unsplash.jpg" medium="image" />
             <category term="Secourisme"/>
             <category term="Santé"/>
 
-        <updated>2023-05-22T02:48:57+02:00</updated>
+        <updated>2023-07-15T20:26:29+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.diverresources.com/media/posts/11/miquel-parera-tr5hA7_wDFc-unsplash.jpg" alt="" />
                     Il est important de connaître l'attitude et les réactions appropriées lorsqu'un plongeur, qu'il soit conscient ou inconscient, se retrouve dans&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.diverresources.com/media/posts/11/miquel-parera-tr5hA7_wDFc-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Il est important de connaître l'attitude et les réactions appropriées lorsqu'un plongeur, qu'il soit conscient ou inconscient, se retrouve dans une situation d'accident de plongée. Dans cet article, nous explorerons les étapes clés à suivre pour assurer une intervention efficace et maximiser les chances de réussite dans ces situations critiques.</p>
 <ol>
 <li>
