@@ -23,7 +23,7 @@
                    "Prévention"
             ],
             "date_published": "2023-09-12T23:24:00+02:00",
-            "date_modified": "2023-09-12T23:24:00+02:00"
+            "date_modified": "2023-09-13T21:03:20+02:00"
         },
         {
             "id": "https://www.diverresources.com/se-diagnostiquer-et-agir-suspicien-accident-decompression/",
@@ -38,8 +38,8 @@
             "tags": [
                    "SOS"
             ],
-            "date_published": "2023-05-23T01:51:56+02:00",
-            "date_modified": "2023-07-10T22:17:11+02:00"
+            "date_published": "2023-08-23T11:51:00+02:00",
+            "date_modified": "2023-09-13T21:03:57+02:00"
         },
         {
             "id": "https://www.diverresources.com/anatomie-physiologie-physionomie-notions-essentielles-en-plongee/",
@@ -54,8 +54,8 @@
             "tags": [
                    "Théorie"
             ],
-            "date_published": "2023-05-22T00:16:39+02:00",
-            "date_modified": "2023-07-10T22:17:05+02:00"
+            "date_published": "2023-08-06T13:16:00+02:00",
+            "date_modified": "2023-09-13T21:04:44+02:00"
         },
         {
             "id": "https://www.diverresources.com/associations-et-organismes-plongee-loisir-france/",
@@ -69,8 +69,8 @@
             "tags": [
                    "Plongée Loisir"
             ],
-            "date_published": "2023-05-22T00:08:47+02:00",
-            "date_modified": "2023-05-23T22:57:25+02:00"
+            "date_published": "2023-07-22T10:08:00+02:00",
+            "date_modified": "2023-09-13T21:04:34+02:00"
         },
         {
             "id": "https://www.diverresources.com/principales-associations-et-organismes-plongee-loisir-tech-monde/",
@@ -84,8 +84,8 @@
             "tags": [
                    "Plongée Tek"
             ],
-            "date_published": "2023-05-22T00:03:12+02:00",
-            "date_modified": "2023-07-07T19:45:32+02:00"
+            "date_published": "2023-07-15T11:03:00+02:00",
+            "date_modified": "2023-09-13T21:05:06+02:00"
         },
         {
             "id": "https://www.diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/",
@@ -100,8 +100,8 @@
             "tags": [
                    "Plongée Tek"
             ],
-            "date_published": "2023-05-21T23:37:33+02:00",
-            "date_modified": "2023-07-10T22:17:39+02:00"
+            "date_published": "2023-07-11T13:37:00+02:00",
+            "date_modified": "2023-09-13T21:05:26+02:00"
         },
         {
             "id": "https://www.diverresources.com/gaz-plongee-sous-marine-air-nitrox-gaz-speciaux-avantages-inconvenients-risques/",
@@ -116,8 +116,8 @@
             "tags": [
                    "Théorie"
             ],
-            "date_published": "2023-05-21T23:19:15+02:00",
-            "date_modified": "2023-05-22T02:10:08+02:00"
+            "date_published": "2023-06-30T14:19:00+02:00",
+            "date_modified": "2023-09-13T21:05:46+02:00"
         },
         {
             "id": "https://www.diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/",
@@ -133,8 +133,8 @@
                    "Santé",
                    "Prévention"
             ],
-            "date_published": "2023-05-21T23:12:44+02:00",
-            "date_modified": "2023-06-01T23:08:53+02:00"
+            "date_published": "2023-06-21T16:12:00+02:00",
+            "date_modified": "2023-09-13T21:06:04+02:00"
         },
         {
             "id": "https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/",
@@ -150,8 +150,8 @@
                    "Secourisme",
                    "SOS"
             ],
-            "date_published": "2023-05-21T23:00:29+02:00",
-            "date_modified": "2023-07-11T02:43:49+02:00"
+            "date_published": "2023-06-15T18:00:00+02:00",
+            "date_modified": "2023-09-13T21:06:25+02:00"
         },
         {
             "id": "https://www.diverresources.com/procedure-suspicion-accident-decompression-en-plongee/",
@@ -167,8 +167,8 @@
                    "Santé",
                    "SOS"
             ],
-            "date_published": "2023-05-21T22:44:35+02:00",
-            "date_modified": "2023-05-23T01:53:45+02:00"
+            "date_published": "2023-06-08T09:44:00+02:00",
+            "date_modified": "2023-09-13T21:06:46+02:00"
         }
     ]
 }
