@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://www.diverresources.com/feed.xml" rel="self" />
     <link href="https://www.diverresources.com" />
-    <updated>2023-11-26T17:52:19+01:00</updated>
+    <updated>2023-11-26T17:57:21+01:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -448,21 +448,21 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         </author>
         <link href="https://www.diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/"/>
         <id>https://www.diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/</id>
-        <media:content url="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.jpg" medium="image" />
+        <media:content url="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" medium="image" />
             <category term="Théorie"/>
             <category term="Santé"/>
             <category term="Prévention"/>
 
-        <updated>2023-11-26T17:51:04+01:00</updated>
+        <updated>2023-11-26T17:57:21+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.jpg" alt="Plongeur Tek sur une épave avec ses gaz de décompression" />
+                        <img src="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" alt="Plongeur Tek sur une épave avec ses gaz de décompression" />
                     Dans cet article, nous explorerons les différents accidents et dangers liés à la plongée, en soulignant l'importance de la formation,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.jpg" class="type:primaryImage" alt="Plongeur Tek sur une épave avec ses gaz de décompression" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" class="type:primaryImage" alt="Plongeur Tek sur une épave avec ses gaz de décompression" /></p>
                 <p>Dans cet article, nous explorerons les différents accidents et dangers liés à la plongée, en soulignant l'importance de la formation, de l'équipement adéquat et de la prudence lors de chaque plongée.</p>
 <ol>
 <li>
