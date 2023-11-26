@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://www.diverresources.com/feed.xml" rel="self" />
     <link href="https://www.diverresources.com" />
-    <updated>2023-11-26T17:47:59+01:00</updated>
+    <updated>2023-11-26T17:51:04+01:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -389,7 +389,7 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
             <category term="Santé"/>
             <category term="Prévention"/>
 
-        <updated>2023-11-26T17:47:59+01:00</updated>
+        <updated>2023-11-26T17:51:04+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.jpg" alt="Plongeur Tek sur une épave avec ses gaz de décompression" />
@@ -460,6 +460,7 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
 <div class="markdown prose w-full break-words dark:prose-invert light">
 <p>Il convient de noter que cette liste n'est pas exhaustive et qu'il existe d'autres accidents et risques possibles en plongée. Il est important de se former correctement, de respecter les protocoles de sécurité, de plonger avec un binôme compétent et de toujours être conscient de ses limites et de ses compétences. La prudence et la préparation sont essentielles pour profiter en toute sécurité de la plongée sous-marine.</p>
+<p>Crédits de la photo de couverture: <a href="https://photolib.noaa.gov/" target="_blank" rel="noopener noreferrer">NOAA</a></p>
 </div>
 </div>
 </div>
