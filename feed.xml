@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://www.diverresources.com/feed.xml" rel="self" />
     <link href="https://www.diverresources.com" />
-    <updated>2023-09-13T21:06:46+02:00</updated>
+    <updated>2023-11-26T17:33:11+01:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://www.diverresources.com/diver-safety-guardian-lavenir-de-la-securite-des-plongeurs/"/>
         <id>https://www.diverresources.com/diver-safety-guardian-lavenir-de-la-securite-des-plongeurs/</id>
+        <media:content url="https://www.diverresources.com/media/posts/21/diver_safety_guardians.jpg" medium="image" />
             <category term="Santé"/>
             <category term="Prévention"/>
 
-        <updated>2023-09-13T21:03:20+02:00</updated>
+        <updated>2023-11-26T17:33:11+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.diverresources.com/media/posts/21/diver_safety_guardians.jpg" alt="" />
                     Imaginez un carnet de plongée dans lequel vous pouvez télécharger vos paramétres de plongées, de renseigner votre état physique, les&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.diverresources.com/media/posts/21/diver_safety_guardians.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Imaginez un carnet de plongée dans lequel vous pouvez télécharger vos paramétres de plongées, de renseigner votre état physique, les conditions de la plongée pour vous donner un <strong>score de surêté de vos dernières aventures sous-marines</strong>. Cette promesse, c'est celle du cartnet de plongée en ligne <a href="#INTERNAL_LINK#/post/null" title="DSG" target="_blank" rel="noopener noreferrer">Diver Safety Guardian</a>. </p>
 <h3>Présentation du carnet de plongée révolutionnaire et de son objectif principal</h3>
 <p><a href="#INTERNAL_LINK#/post/null" title="DSG" target="_blank" rel="noopener noreferrer">Diver Safety Guardian</a> recueille des profils de plongée, des données médicales et d'autres paramètres liés à votre plongée telle que le lieu, vos conditions physiques avant et pendant la plongée ainsi les problèmes qui ont pu survenir et votre indice glycemique. Le logiciel analyse ces paramétres afin de vous fournir un retour d'information immédiat sur chaque plongée que vous téléchargez.</p>
