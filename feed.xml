@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Diver resources</title>
-    <link href="https://diverresources.com/feed.xml" rel="self" />
-    <link href="https://diverresources.com" />
+    <link href="https://www.diverresources.com/feed.xml" rel="self" />
+    <link href="https://www.diverresources.com" />
     <updated>2023-11-26T18:30:31+01:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
-    <id>https://diverresources.com</id>
+    <id>https://www.diverresources.com</id>
 
     <entry>
         <title>Diver Safety Guardian: L&#x27;avenir de la sécurité des plongeurs?</title>
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/diver-safety-guardian-lavenir-de-la-securite-des-plongeurs/"/>
-        <id>https://diverresources.com/diver-safety-guardian-lavenir-de-la-securite-des-plongeurs/</id>
-        <media:content url="https://diverresources.com/media/posts/21/diver_safety_guardians.jpg" medium="image" />
+        <link href="https://www.diverresources.com/diver-safety-guardian-lavenir-de-la-securite-des-plongeurs/"/>
+        <id>https://www.diverresources.com/diver-safety-guardian-lavenir-de-la-securite-des-plongeurs/</id>
+        <media:content url="https://www.diverresources.com/media/posts/21/diver_safety_guardians.jpg" medium="image" />
             <category term="Santé"/>
             <category term="Prévention"/>
 
         <updated>2023-09-12T23:24:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://diverresources.com/media/posts/21/diver_safety_guardians.jpg" alt="" />
+                        <img src="https://www.diverresources.com/media/posts/21/diver_safety_guardians.jpg" alt="" />
                     Imaginez un carnet de plongée dans lequel vous pouvez télécharger vos paramétres de plongées, de renseigner votre état physique, les&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diverresources.com/media/posts/21/diver_safety_guardians.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/21/diver_safety_guardians.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Imaginez un carnet de plongée dans lequel vous pouvez télécharger vos paramétres de plongées, de renseigner votre état physique, les conditions de la plongée pour vous donner un <strong>score de surêté de vos dernières aventures sous-marines</strong>. Cette promesse, c'est celle du cartnet de plongée en ligne <a href="#INTERNAL_LINK#/post/null" title="DSG" target="_blank" rel="noopener noreferrer">Diver Safety Guardian</a>. </p>
 <h3>Présentation du carnet de plongée révolutionnaire et de son objectif principal</h3>
 <p><a href="#INTERNAL_LINK#/post/null" title="DSG" target="_blank" rel="noopener noreferrer">Diver Safety Guardian</a> recueille des profils de plongée, des données médicales et d'autres paramètres liés à votre plongée telle que le lieu, vos conditions physiques avant et pendant la plongée ainsi les problèmes qui ont pu survenir et votre indice glycemique. Le logiciel analyse ces paramétres afin de vous fournir un retour d'information immédiat sur chaque plongée que vous téléchargez.</p>
@@ -78,24 +78,24 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/se-diagnostiquer-et-agir-suspicien-accident-decompression/"/>
-        <id>https://diverresources.com/se-diagnostiquer-et-agir-suspicien-accident-decompression/</id>
-        <media:content url="https://diverresources.com/media/posts/20/owen-beard-DK8jXx1B-1c-unsplash.jpg" medium="image" />
+        <link href="https://www.diverresources.com/se-diagnostiquer-et-agir-suspicien-accident-decompression/"/>
+        <id>https://www.diverresources.com/se-diagnostiquer-et-agir-suspicien-accident-decompression/</id>
+        <media:content url="https://www.diverresources.com/media/posts/20/owen-beard-DK8jXx1B-1c-unsplash.jpg" medium="image" />
             <category term="SOS"/>
 
         <updated>2023-08-23T11:51:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://diverresources.com/media/posts/20/owen-beard-DK8jXx1B-1c-unsplash.jpg" alt="" />
+                        <img src="https://www.diverresources.com/media/posts/20/owen-beard-DK8jXx1B-1c-unsplash.jpg" alt="" />
                     Si vous vous posez la question de savoir si vous êtes en train de vivre un accident de décompression, il&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diverresources.com/media/posts/20/owen-beard-DK8jXx1B-1c-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/20/owen-beard-DK8jXx1B-1c-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Si vous vous posez la question de savoir si vous êtes en train de vivre un accident de décompression, il est essentiel d'agir rapidement pour protéger votre santé. Dans cet article, nous vous fournirons des informations détaillées sur les symptômes caractéristiques d'un accident de décompression, les causes possibles, ainsi que les procédures à suivre en cas d'urgence.</p>
 <h2>Qu'est-ce qu'un accident de décompression ?</h2>
-<p>Un <a href="https://diverresources.com/mal-de-decompression-cause-et-facteurs-favorisant/">accident de décompression</a> survient lorsque des bulles d'azote se forment dans les tissus du corps en raison d'une décompression trop rapide après une exposition à des pressions élevées. Cela peut se produire lors de plongées sous-marines ou de vols en haute altitude, où la pression atmosphérique est réduite.</p>
+<p>Un <a href="https://www.diverresources.com/mal-de-decompression-cause-et-facteurs-favorisant/">accident de décompression</a> survient lorsque des bulles d'azote se forment dans les tissus du corps en raison d'une décompression trop rapide après une exposition à des pressions élevées. Cela peut se produire lors de plongées sous-marines ou de vols en haute altitude, où la pression atmosphérique est réduite.</p>
 <h2>Symptômes d'un accident de décompression </h2>
 <ol>
 <li>Douleurs articulaires et musculaires, en particulier aux épaules, aux coudes, aux genoux ou au dos.</li>
@@ -108,7 +108,7 @@
 <h2>Comment réagir ?</h2>
 <ol>
 <li>
-<p><strong>Demandez une assistance médicale</strong> : Contactez les <a href="https://diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/">services médicaux</a> ou rendez-vous à l'hôpital le plus proche. Informez-les de votre situation et des symptômes que vous ressentez. Ils seront en capacité de vous orienter vers le service adéquat le plus proche ou de vous envoyer du secours si cela est nécéssaire.</p>
+<p><strong>Demandez une assistance médicale</strong> : Contactez les <a href="https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/">services médicaux</a> ou rendez-vous à l'hôpital le plus proche. Informez-les de votre situation et des symptômes que vous ressentez. Ils seront en capacité de vous orienter vers le service adéquat le plus proche ou de vous envoyer du secours si cela est nécéssaire.</p>
 </li>
 <li>
 <p><strong>Administrez de l'oxygène</strong> : Si vous avez accès à de l'oxygène, utilisez-le immédiatement. L'administration d'oxygène pur aide à réduire les dommages causés par les bulles d'azote dans votre corps.</p>
@@ -132,21 +132,21 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/anatomie-physiologie-physionomie-notions-essentielles-en-plongee/"/>
-        <id>https://diverresources.com/anatomie-physiologie-physionomie-notions-essentielles-en-plongee/</id>
-        <media:content url="https://diverresources.com/media/posts/19/camilo-jimenez-0yLmwcXLwLw-unsplash.jpg" medium="image" />
+        <link href="https://www.diverresources.com/anatomie-physiologie-physionomie-notions-essentielles-en-plongee/"/>
+        <id>https://www.diverresources.com/anatomie-physiologie-physionomie-notions-essentielles-en-plongee/</id>
+        <media:content url="https://www.diverresources.com/media/posts/19/camilo-jimenez-0yLmwcXLwLw-unsplash.jpg" medium="image" />
             <category term="Théorie"/>
 
         <updated>2023-08-06T13:16:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://diverresources.com/media/posts/19/camilo-jimenez-0yLmwcXLwLw-unsplash.jpg" alt="" />
+                        <img src="https://www.diverresources.com/media/posts/19/camilo-jimenez-0yLmwcXLwLw-unsplash.jpg" alt="" />
                     L'anatomie, la physiologie et la physionomie sont des thèmes essentiels à connaitre pour pratiquer des activités sous-marine en toute sécurité.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diverresources.com/media/posts/19/camilo-jimenez-0yLmwcXLwLw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/19/camilo-jimenez-0yLmwcXLwLw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>L'anatomie, la physiologie et la physionomie sont des thèmes essentiels à connaitre pour pratiquer des activités sous-marine en toute sécurité. Dans cet article, nous allons explorer ces notions fondamentales et approfondir notre compréhension de leur importance en plongée.</p>
 <h2>Anatomie</h2>
 <p>L'anatomie est l'étude de la structure du corps humain. En plongée, il est crucial de comprendre l'anatomie des voies respiratoires, du système cardiovasculaire et des oreilles. Voici quelques points clés à retenir :</p>
@@ -197,8 +197,8 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/associations-et-organismes-plongee-loisir-france/"/>
-        <id>https://diverresources.com/associations-et-organismes-plongee-loisir-france/</id>
+        <link href="https://www.diverresources.com/associations-et-organismes-plongee-loisir-france/"/>
+        <id>https://www.diverresources.com/associations-et-organismes-plongee-loisir-france/</id>
             <category term="Plongée Loisir"/>
 
         <updated>2023-07-22T10:08:00+02:00</updated>
@@ -252,21 +252,21 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/principales-associations-et-organismes-plongee-loisir-tech-monde/"/>
-        <id>https://diverresources.com/principales-associations-et-organismes-plongee-loisir-tech-monde/</id>
-        <media:content url="https://diverresources.com/media/posts/17/Tek-Diving-School-2.png" medium="image" />
+        <link href="https://www.diverresources.com/principales-associations-et-organismes-plongee-loisir-tech-monde/"/>
+        <id>https://www.diverresources.com/principales-associations-et-organismes-plongee-loisir-tech-monde/</id>
+        <media:content url="https://www.diverresources.com/media/posts/17/Tek-Diving-School-2.png" medium="image" />
             <category term="Plongée Tek"/>
 
         <updated>2023-07-15T11:03:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://diverresources.com/media/posts/17/Tek-Diving-School-2.png" alt="" />
+                        <img src="https://www.diverresources.com/media/posts/17/Tek-Diving-School-2.png" alt="" />
                     Pour garantir la sécurité, promouvoir les bonnes pratiques et offrir une formation de qualité, plusieurs associations et organismes de plongée&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diverresources.com/media/posts/17/Tek-Diving-School-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/17/Tek-Diving-School-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Pour garantir la sécurité, promouvoir les bonnes pratiques et offrir une formation de qualité, plusieurs associations et organismes de plongée ont été créés. Dans cet article, nous allons explorer les principales associations et organismes de plongée reconnus internationalement.</p>
 <ol>
 <li>
@@ -307,21 +307,21 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/"/>
-        <id>https://diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/</id>
-        <media:content url="https://diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" medium="image" />
+        <link href="https://www.diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/"/>
+        <id>https://www.diverresources.com/plongee-technique-repoussez-vos-limites-sous-marines/</id>
+        <media:content url="https://www.diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" medium="image" />
             <category term="Plongée Tek"/>
 
         <updated>2023-07-11T13:37:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" alt="Nicolas Seksi de Plongée Tek Marseille" />
+                        <img src="https://www.diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" alt="Nicolas Seksi de Plongée Tek Marseille" />
                     La plongée technique, également connue sous le nom de plongée avancée ou plongée de pointe, est une forme de plongée&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" class="type:primaryImage" alt="Nicolas Seksi de Plongée Tek Marseille" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/16/plongee_tek_marseille_Nicolas_Seksi.webp" class="type:primaryImage" alt="Nicolas Seksi de Plongée Tek Marseille" /></p>
                 <div class="flex-1 overflow-hidden">
 <div class="react-scroll-to-bottom--css-ukseh-79elbk h-full dark:bg-gray-800">
 <div class="react-scroll-to-bottom--css-ukseh-1n7m0yu">
@@ -372,21 +372,21 @@
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/gaz-plongee-sous-marine-air-nitrox-gaz-speciaux-avantages-inconvenients-risques/"/>
-        <id>https://diverresources.com/gaz-plongee-sous-marine-air-nitrox-gaz-speciaux-avantages-inconvenients-risques/</id>
-        <media:content url="https://diverresources.com/media/posts/15/Melange_gaz_plongee_tek_marseille.jpg" medium="image" />
+        <link href="https://www.diverresources.com/gaz-plongee-sous-marine-air-nitrox-gaz-speciaux-avantages-inconvenients-risques/"/>
+        <id>https://www.diverresources.com/gaz-plongee-sous-marine-air-nitrox-gaz-speciaux-avantages-inconvenients-risques/</id>
+        <media:content url="https://www.diverresources.com/media/posts/15/Melange_gaz_plongee_tek_marseille.jpg" medium="image" />
             <category term="Théorie"/>
 
         <updated>2023-06-30T14:19:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://diverresources.com/media/posts/15/Melange_gaz_plongee_tek_marseille.jpg" alt="Oxygène pour les préparation des mélanges chez Plongée Tek Marseille" />
+                        <img src="https://www.diverresources.com/media/posts/15/Melange_gaz_plongee_tek_marseille.jpg" alt="Oxygène pour les préparation des mélanges chez Plongée Tek Marseille" />
                     Lors de la plongée sous-marine, le choix du gaz respiratoire est crucial pour assurer une plongée sûre et efficace. Dans&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diverresources.com/media/posts/15/Melange_gaz_plongee_tek_marseille.jpg" class="type:primaryImage" alt="Oxygène pour les préparation des mélanges chez Plongée Tek Marseille" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/15/Melange_gaz_plongee_tek_marseille.jpg" class="type:primaryImage" alt="Oxygène pour les préparation des mélanges chez Plongée Tek Marseille" /></p>
                 <div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
 <div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-xl xl:max-w-3xl md:py-6 lg:px-0 m-auto">
 <div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
@@ -449,9 +449,9 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/"/>
-        <id>https://diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/</id>
-        <media:content url="https://diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" medium="image" />
+        <link href="https://www.diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/"/>
+        <id>https://www.diverresources.com/les-risques-en-plongee-sous-marine-une-connaissance-essentielle-pour-une-pratique-securisee/</id>
+        <media:content url="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" medium="image" />
             <category term="Théorie"/>
             <category term="Santé"/>
             <category term="Prévention"/>
@@ -459,13 +459,13 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <updated>2023-06-21T16:12:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" alt="Plongeur Tek sur une épave avec ses gaz de décompression" />
+                        <img src="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" alt="Plongeur Tek sur une épave avec ses gaz de décompression" />
                     Dans cet article, nous explorerons les différents accidents et dangers liés à la plongée, en soulignant l'importance de la formation,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" class="type:primaryImage" alt="Plongeur Tek sur une épave avec ses gaz de décompression" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/14/Risques_plongees_photo_by_Noaa.png" class="type:primaryImage" alt="Plongeur Tek sur une épave avec ses gaz de décompression" /></p>
                 <p>Dans cet article, nous explorerons les différents accidents et dangers liés à la plongée, en soulignant l'importance de la formation, de l'équipement adéquat et de la prudence lors de chaque plongée.</p>
 <ol>
 <li>
@@ -542,22 +542,22 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/"/>
-        <id>https://diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/</id>
-        <media:content url="https://diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" medium="image" />
+        <link href="https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/"/>
+        <id>https://www.diverresources.com/passer-une-alerte-liee-a-la-plongee-procedure-et-numeros-a-connaitre-en-france/</id>
+        <media:content url="https://www.diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" medium="image" />
             <category term="Secourisme"/>
             <category term="SOS"/>
 
         <updated>2023-06-15T18:00:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" alt="" />
+                        <img src="https://www.diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" alt="" />
                     Lorsque vous êtes confronté à un danger ou à une urgence en plongée en France, il est essentiel de savoir&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.diverresources.com/media/posts/13/miquel-parera-tr5hA7_wDFc-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
 <div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-xl xl:max-w-3xl md:py-6 lg:px-0 m-auto">
 <div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
@@ -656,8 +656,8 @@ Le nitrox est un mélange gazeux qui contient une teneur en oxygène supérieure
         <author>
             <name>Jérémy Lanfranchi</name>
         </author>
-        <link href="https://diverresources.com/procedure-suspicion-accident-decompression-en-plongee/"/>
-        <id>https://diverresources.com/procedure-suspicion-accident-decompression-en-plongee/</id>
+        <link href="https://www.diverresources.com/procedure-suspicion-accident-decompression-en-plongee/"/>
+        <id>https://www.diverresources.com/procedure-suspicion-accident-decompression-en-plongee/</id>
             <category term="Secourisme"/>
             <category term="Santé"/>
             <category term="SOS"/>
