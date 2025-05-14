@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://diverresources.com/feed.xml" rel="self" />
     <link href="https://diverresources.com" />
-    <updated>2025-05-15T00:06:26+02:00</updated>
+    <updated>2025-05-15T00:06:52+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://diverresources.com/points-cles-a-retenir-sur-lutilisation-du-revo-rebreather-avec-controleur-shearwater-petrel/"/>
         <id>https://diverresources.com/points-cles-a-retenir-sur-lutilisation-du-revo-rebreather-avec-controleur-shearwater-petrel/</id>
+        <media:content url="https://diverresources.com/media/posts/24/revo-simple3.png" medium="image" />
             <category term="Théorie"/>
             <category term="Plongée Tek"/>
             <category term="Philosophie"/>
@@ -24,11 +25,13 @@
         <updated>2025-05-14T23:25:41+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://diverresources.com/media/posts/24/revo-simple3.png" alt="" />
                     Informations Vitales pour la Sécurité Cellules d'oxygène - La pierre angulaire de votre sécurité: Ce sont des piles galvaniques qui&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://diverresources.com/media/posts/24/revo-simple3.png" class="type:primaryImage" alt="" /></p>
                 <h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">Informations Vitales pour la Sécurité</h2>
 <ol class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-decimal space-y-1.5 pl-7">
 <li class="whitespace-normal break-words"><strong>Cellules d'oxygène</strong> - La pierre angulaire de votre sécurité:
