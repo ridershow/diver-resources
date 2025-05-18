@@ -3,7 +3,7 @@
     <title>Diver resources</title>
     <link href="https://diverresources.com/feed.xml" rel="self" />
     <link href="https://diverresources.com" />
-    <updated>2025-05-15T00:06:52+02:00</updated>
+    <updated>2025-05-18T19:00:07+02:00</updated>
     <author>
         <name>Jérémy Lanfranchi</name>
     </author>
@@ -98,8 +98,7 @@
 </ul>
 </li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://diverresources.com/media/posts/24/oxygen-cell-strategy-fr.png" alt="Stratégie de Remplacement des Cellules d'Oxygène pour rEvo Rebreather" width="800" height="700" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://diverresources.com/media/posts/24/responsive/oxygen-cell-strategy-fr-xs.png 300w ,https://diverresources.com/media/posts/24/responsive/oxygen-cell-strategy-fr-sm.png 480w ,https://diverresources.com/media/posts/24/responsive/oxygen-cell-strategy-fr-md.png 768w"><figcaption>Caption</figcaption></figure>
-<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://diverresources.com/media/posts/24/oxygen-cell-strategy-fr.svg" alt="Stratégie de remplacement des cellules rEvo" width="800" height="700"></figure>
 <h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">Philosophie générale</h2>
 <ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
 <li class="whitespace-normal break-words"><strong>Prévention plutôt que réaction</strong>: développer de bonnes habitudes de vérification</li>

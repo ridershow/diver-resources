@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 800 700"
+   version="1.1"
+   id="svg1809"
+   sodipodi:docname="oxygen-cell-strategy-fr.svg"
+   width="800"
+   height="700"
+   inkscape:export-filename="oxygen-cell-strategy-fr.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1813" />
+  <sodipodi:namedview
+     id="namedview1811"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3171714"
+     inkscape:cx="319.2447"
+     inkscape:cy="356.82523"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1809" />
+  <!-- Background -->
+  <rect
+     x="-2"
+     y="0"
+     width="803.0368"
+     height="700"
+     fill="#f5f5f5"
+     id="rect1647"
+     style="stroke-width:1.14222" />
+  <!-- Title -->
+  <text
+     x="396"
+     y="62"
+     font-family="Arial, sans-serif"
+     font-size="24px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#2c3e50"
+     id="text1649">Stratégie de Remplacement des Cellules Oxygène rEvo</text>
+  <!-- Timeline Bar -->
+  <rect
+     x="94"
+     y="122"
+     width="600"
+     height="10"
+     fill="#3498db"
+     rx="5"
+     ry="5"
+     id="rect1651" />
+  <!-- Month Markers -->
+  <g
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#2c3e50"
+     id="g1681"
+     transform="translate(-6,22)">
+    <text
+       x="100"
+       y="85"
+       text-anchor="middle"
+       id="text1653">Mois 0</text>
+    <line
+       x1="100"
+       y1="95"
+       x2="100"
+       y2="115"
+       stroke="#2c3e50"
+       stroke-width="2"
+       id="line1655" />
+    <text
+       x="200"
+       y="85"
+       text-anchor="middle"
+       id="text1657">Mois 6</text>
+    <line
+       x1="200"
+       y1="95"
+       x2="200"
+       y2="115"
+       stroke="#2c3e50"
+       stroke-width="2"
+       id="line1659" />
+    <text
+       x="300"
+       y="85"
+       text-anchor="middle"
+       id="text1661">Mois 12</text>
+    <line
+       x1="300"
+       y1="95"
+       x2="300"
+       y2="115"
+       stroke="#2c3e50"
+       stroke-width="2"
+       id="line1663" />
+    <text
+       x="400"
+       y="85"
+       text-anchor="middle"
+       id="text1665">Mois 18</text>
+    <line
+       x1="400"
+       y1="95"
+       x2="400"
+       y2="115"
+       stroke="#2c3e50"
+       stroke-width="2"
+       id="line1667" />
+    <text
+       x="500"
+       y="85"
+       text-anchor="middle"
+       id="text1669">Mois 24</text>
+    <line
+       x1="500"
+       y1="95"
+       x2="500"
+       y2="115"
+       stroke="#2c3e50"
+       stroke-width="2"
+       id="line1671" />
+    <text
+       x="600"
+       y="85"
+       text-anchor="middle"
+       id="text1673">Mois 30</text>
+    <line
+       x1="600"
+       y1="95"
+       x2="600"
+       y2="115"
+       stroke="#2c3e50"
+       stroke-width="2"
+       id="line1675" />
+    <text
+       x="700"
+       y="85"
+       text-anchor="middle"
+       id="text1677">Mois 36</text>
+    <line
+       x1="700"
+       y1="95"
+       x2="700"
+       y2="115"
+       stroke="#2c3e50"
+       stroke-width="2"
+       id="line1679" />
+  </g>
+  <!-- Cell Replacement Schedule -->
+  <!-- Cell 1 (Shearwater) -->
+  <g
+     transform="translate(-6,192)"
+     id="g1697">
+    <rect
+       x="100"
+       y="0"
+       width="200"
+       height="40"
+       fill="#e74c3c"
+       rx="5"
+       ry="5"
+       id="rect1683" />
+    <text
+       x="200"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1685">Cel. 1 (SW)</text>
+    <rect
+       x="300"
+       y="0"
+       width="200"
+       height="40"
+       fill="#e74c3c"
+       rx="5"
+       ry="5"
+       id="rect1687" />
+    <rect
+       x="500"
+       y="0"
+       width="200"
+       height="40"
+       fill="#e74c3c"
+       rx="5"
+       ry="5"
+       id="rect1691" />
+    <text
+       x="480"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1693">Cel. 1 (SW)</text>
+  </g>
+  <!-- Cell 2 (Shearwater) -->
+  <g
+     transform="translate(-6,242)"
+     id="g1709">
+    <rect
+       x="100"
+       y="0"
+       width="300"
+       height="40"
+       fill="#e67e22"
+       rx="5"
+       ry="5"
+       id="rect1699" />
+    <text
+       x="250"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1701">Cel. 2 (SW)</text>
+    <rect
+       x="400"
+       y="0"
+       width="300"
+       height="40"
+       fill="#e67e22"
+       rx="5"
+       ry="5"
+       id="rect1703" />
+    <text
+       x="530"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1705">Cel. 2 (SW)</text>
+  </g>
+  <!-- Cell 3 (Shearwater) -->
+  <g
+     transform="translate(-6,292)"
+     id="g1721">
+    <rect
+       x="100"
+       y="0"
+       width="400"
+       height="40"
+       fill="#f1c40f"
+       rx="5"
+       ry="5"
+       id="rect1711" />
+    <text
+       x="300"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1713">Cel. 3 (SW)</text>
+    <rect
+       x="500"
+       y="0"
+       width="200"
+       height="40"
+       fill="#f1c40f"
+       rx="5"
+       ry="5"
+       id="rect1715" />
+    <text
+       x="580"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1717">Cel. 3 (SW)</text>
+  </g>
+  <!-- Cell 4 (RevoDream) -->
+  <g
+     transform="translate(-6,352)"
+     id="g1737">
+    <rect
+       x="100"
+       y="0"
+       width="100"
+       height="40"
+       fill="#2ecc71"
+       rx="5"
+       ry="5"
+       id="rect1723" />
+    <rect
+       x="200"
+       y="0"
+       width="300"
+       height="40"
+       fill="#2ecc71"
+       rx="5"
+       ry="5"
+       id="rect1727" />
+    <text
+       x="350"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1729">Cel. 4 (RD)</text>
+    <rect
+       x="500"
+       y="0"
+       width="200"
+       height="40"
+       fill="#2ecc71"
+       rx="5"
+       ry="5"
+       id="rect1731" />
+    <text
+       x="620"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1733">Cel. 4 (RD)</text>
+  </g>
+  <!-- Cell 5 (RevoDream) -->
+  <g
+     transform="translate(-6,402)"
+     id="g1749">
+    <rect
+       x="100"
+       y="0"
+       width="500"
+       height="40"
+       fill="#3498db"
+       rx="5"
+       ry="5"
+       id="rect1739" />
+    <text
+       x="390"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1741">Cell. 5 (RD)</text>
+    <rect
+       x="600"
+       y="0"
+       width="100"
+       height="40"
+       fill="#3498db"
+       rx="5"
+       ry="5"
+       id="rect1743" />
+    <text
+       x="670"
+       y="25"
+       font-family="Arial, sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       text-anchor="middle"
+       fill="#ffffff"
+       id="text1745">Cel. 5 (RD)</text>
+  </g>
+  <!-- Replacement Events -->
+  <g
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#2c3e50"
+     id="g1775"
+     transform="translate(-6,22)">
+    <line
+       x1="200"
+       y1="130"
+       x2="200"
+       y2="440"
+       stroke="#2c3e50"
+       stroke-width="2"
+       stroke-dasharray="5, 5"
+       id="line1751" />
+    <text
+       x="200"
+       y="455"
+       text-anchor="middle"
+       id="text1753">Changer Cel. 4</text>
+    <line
+       x1="300"
+       y1="130"
+       x2="300"
+       y2="440"
+       stroke="#2c3e50"
+       stroke-width="2"
+       stroke-dasharray="5, 5"
+       id="line1755" />
+    <text
+       x="300"
+       y="455"
+       text-anchor="middle"
+       id="text1757">Changer Cel. 1</text>
+    <line
+       x1="400"
+       y1="130"
+       x2="400"
+       y2="440"
+       stroke="#2c3e50"
+       stroke-width="2"
+       stroke-dasharray="5, 5"
+       id="line1759" />
+    <text
+       x="400"
+       y="455"
+       text-anchor="middle"
+       id="text1761">Changer Cel. 2</text>
+    <line
+       x1="500"
+       y1="130"
+       x2="500"
+       y2="440"
+       stroke="#2c3e50"
+       stroke-width="2"
+       stroke-dasharray="5, 5"
+       id="line1763" />
+    <text
+       x="500"
+       y="455"
+       text-anchor="middle"
+       id="text1765">Changer Cel. 3</text>
+    <line
+       x1="600"
+       y1="130"
+       x2="600"
+       y2="440"
+       stroke="#2c3e50"
+       stroke-width="2"
+       stroke-dasharray="5, 5"
+       id="line1767" />
+    <text
+       x="600"
+       y="455"
+       text-anchor="middle"
+       id="text1769">Changer Cel. 5</text>
+    <line
+       x1="700"
+       y1="130"
+       x2="700"
+       y2="440"
+       stroke="#2c3e50"
+       stroke-width="2"
+       stroke-dasharray="5, 5"
+       id="line1771" />
+    <text
+       x="700"
+       y="455"
+       text-anchor="middle"
+       id="text1773">Changer Cel. 4</text>
+  </g>
+  <!-- Rules and Important Notes -->
+  <rect
+     x="58.371471"
+     y="502.37146"
+     width="701.20068"
+     height="168.05362"
+     fill="#ffffff"
+     stroke="#2c3e50"
+     stroke-width="2.23659"
+     rx="11.686678"
+     ry="16.805361"
+     id="rect1777" />
+  <text
+     x="68"
+     y="524"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text1779">Principes Clés:</text>
+  <text
+     x="78"
+     y="549"
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#2c3e50"
+     id="text1781">• Remplacer une cellule tous les 6 mois en rotation (remplacement échelonné)</text>
+  <text
+     x="120"
+     y="550"
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#2c3e50"
+     id="text1783"
+     style="white-space:pre;inline-size:495.85;display:inline"
+     transform="translate(-42,24)"
+     xml:space="preserve"><tspan
+       x="120"
+       y="550"
+       id="tspan9768">• Ne jamais remplacer toutes les cellules en même temps pour éviter des </tspan><tspan
+       x="120"
+       y="567.50003"
+       id="tspan9770">défaillances du même lot</tspan></text>
+  <text
+     x="78"
+     y="615"
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#2c3e50"
+     id="text1785"
+     style="white-space:pre;inline-size:512.968;display:inline"
+     transform="translate(0,2)"
+     xml:space="preserve"><tspan
+       x="78"
+       y="615"
+       id="tspan9772">• Tester régulièrement la limitation de courant (notamment lors du rinçage O₂ à 6m)</tspan></text>
+  <text
+     x="78"
+     y="640"
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     fill="#2c3e50"
+     id="text1787"
+     style="white-space:pre;inline-size:532.617;display:inline"
+     transform="translate(0,2)"
+     xml:space="preserve"><tspan
+       x="78"
+       y="640"
+       id="tspan9774">• Utiliser plusieurs électroniques (SW: Shearwater, RD: RevoDream) pour la </tspan><tspan
+       x="78"
+       y="657.50003"
+       id="tspan9776">redondance</tspan></text>
+  <!-- Legend -->
+  <rect
+     x="608"
+     y="522"
+     width="20"
+     height="15"
+     fill="#e74c3c"
+     rx="2"
+     ry="2"
+     id="rect1789" />
+  <text
+     x="633"
+     y="534"
+     font-family="Arial, sans-serif"
+     font-size="12px"
+     fill="#2c3e50"
+     id="text1791">Cellule 1 Shearwater</text>
+  <rect
+     x="608"
+     y="542"
+     width="20"
+     height="15"
+     fill="#e67e22"
+     rx="2"
+     ry="2"
+     id="rect1793" />
+  <text
+     x="633"
+     y="554"
+     font-family="Arial, sans-serif"
+     font-size="12px"
+     fill="#2c3e50"
+     id="text1795">Cellule 2 Shearwater</text>
+  <rect
+     x="608"
+     y="562"
+     width="20"
+     height="15"
+     fill="#f1c40f"
+     rx="2"
+     ry="2"
+     id="rect1797" />
+  <text
+     x="633"
+     y="574"
+     font-family="Arial, sans-serif"
+     font-size="12px"
+     fill="#2c3e50"
+     id="text1799">Cellule 3 Shearwater</text>
+  <rect
+     x="608"
+     y="582"
+     width="20"
+     height="15"
+     fill="#2ecc71"
+     rx="2"
+     ry="2"
+     id="rect1801" />
+  <text
+     x="633"
+     y="594"
+     font-family="Arial, sans-serif"
+     font-size="12px"
+     fill="#2c3e50"
+     id="text1803">Cellule 4 RevoDream</text>
+  <rect
+     x="608"
+     y="602"
+     width="20"
+     height="15"
+     fill="#3498db"
+     rx="2"
+     ry="2"
+     id="rect1805" />
+  <text
+     x="633"
+     y="614"
+     font-family="Arial, sans-serif"
+     font-size="12px"
+     fill="#2c3e50"
+     id="text1807">Cellule 5 RevoDream</text>
+  <text
+     xml:space="preserve"
+     style="font-size:130.667px;font-family:Futura-Condensed-Bold;-inkscape-font-specification:'Futura-Condensed-Bold, Normal';fill:#ffffff"
+     x="748.57379"
+     y="390.98935"
+     id="text9598"><tspan
+       sodipodi:role="line"
+       id="tspan9596"
+       x="748.57379"
+       y="390.98935" /></text>
+</svg>
